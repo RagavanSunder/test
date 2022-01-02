@@ -11,4 +11,7 @@ e.add();
 public void sub() {
 System.out.println("sub");
 }
+public void mul() {
+System.out.println("mul");
+}
 }
